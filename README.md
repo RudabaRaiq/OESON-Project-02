@@ -1,5 +1,4 @@
 # OESON-Project-02
-Hi Everyone,
 As a unique component of my Data Science internship with hashtag#OESON Private Ltd, this is my second project of hashtag#OGTIP hashtag#Oeson where I utilise Python to visualise and analyse the enormous live job data from a famous portal where I share insights and analysing salary trends in this dynamic world nowadays. The job data (2020-2023) and its insights which will provide career decision.
 
 I want to express my gratitude to the team of hashtag#OESON for the chance and hashtag#Minakshi Gautam for her assistance with this project.
