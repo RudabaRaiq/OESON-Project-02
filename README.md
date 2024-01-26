@@ -15,3 +15,6 @@ A comparative analysis showcases Qatar, Japan, and the United States as key play
 
 ## High salary trend: 
 The data (2020-2023) and its insights provide a consistent upward trend in salaries that show a robust demand for skilled professionals in the data industry.
+
+## LinkedIn:
+https://www.linkedin.com/in/sheik-ashanur-rahman-28a7333a/
